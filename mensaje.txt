@@ -1,0 +1,7 @@
+hola mundo
+adios mundo
+
+linea1
+linea2
+
+linea10
