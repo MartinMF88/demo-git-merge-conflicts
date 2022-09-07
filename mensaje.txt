@@ -1,5 +1,5 @@
-hola mundo loco
-adios mundo
+hola mundo coherente
+adios marte
 
 linea10
 linea20
