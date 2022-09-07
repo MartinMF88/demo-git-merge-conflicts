@@ -1,5 +1,5 @@
-hola mundo coherente
-adios marte
+hola mundo 1234
+adios saturno
 
 linea10
 linea20
