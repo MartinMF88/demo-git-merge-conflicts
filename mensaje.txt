@@ -1,7 +1,7 @@
-hola mundo
+hola mundo loco
 adios mundo
 
-linea1
-linea2
+linea10
+linea20
 
 linea10
